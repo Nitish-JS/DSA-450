@@ -1,0 +1,7 @@
+#ignore all exe
+*.exe
+
+#ignore all excel
+*.xlsx
+
+*.vscode
